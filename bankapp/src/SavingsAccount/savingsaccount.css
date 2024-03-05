@@ -1,0 +1,45 @@
+.form{
+    width:100%;
+    float:left;
+     margin-left:30%;
+    background-color: #9b92e4;
+    font-size: large;
+    color:#77170a;
+
+}
+
+.legend{
+    text-align: center;
+    color: #77170a;
+}
+
+
+.dropdown-demo .p-dropdown {
+    width: 14rem;
+    background-color: orangered;
+}
+
+.dropdown-demo .country-item-value img.flag {
+    width: 17px;
+}
+
+
+.layout
+{
+    width:100%;
+   background-color: white;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: left;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    margin-right:10%;
+}
+.comp{
+    margin-left: 20%;
+    width:30%;
+    background-color: orangered;
+    box-shadow: 10px 10px 10px 10px #9b92e4;
+}

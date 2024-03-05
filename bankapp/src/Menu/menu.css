@@ -1,0 +1,33 @@
+.menu{
+    width:80%;
+    margin-left: 8%;
+    background-color: black;
+    margin-top: 2%;
+
+}
+.p-menubar{
+    width:90%;
+    margin-left:10%;
+    background-color: black;
+    color: red;
+}
+.p-menuitem {
+    font-size: x-large;
+    width:100%;
+    background-color: red;
+
+    color: black;
+}
+.p-menuitem-active a {
+    width:100%;
+
+    background: black !important;
+    color: red;
+
+}
+
+.ui-menubar  {
+    border: 1px solid #aed0ea !important;
+    color: #ffffff !important;
+    font-weight: bolder !important;
+}
