@@ -1,0 +1,5 @@
+1. go to nodejs command prompt run as administrator
+2. go to bank app project using cd
+3. npm install -g yarn
+4. npm install
+5. yarn start
