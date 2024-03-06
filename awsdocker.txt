@@ -11,7 +11,11 @@ and check docker -v
  sudo usermod -aG docker $USER
  
  #java project
-git pull https://github.com/eswaribala/rpsdynatracemar.git
+mkdir projects
+cd projects
+git remote add origin  https://github.com/eswaribala/rpsdynatracemar.git
+
+git pull origin projects
 cd projectfolder
 sudo apt-get update
 sudo apt-get install -y docker-compose
