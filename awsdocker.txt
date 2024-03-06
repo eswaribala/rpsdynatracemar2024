@@ -20,4 +20,4 @@ sudo apt-get install -y docker-compose
 docker-compose up
 
 sudo usermod -a -G docker jenkins
-docker run --name nec-mysql -e MYSQL_ROOT_PASSWORD=vignesh -e MYSQL_DATABASE=amazondb -e MYSQL_USER=demo_user -e MYSQL_PASSWORD=demo_pass -d mysql
+docker run --name expleo-mysql -e MYSQL_ROOT_PASSWORD=vignesh -e MYSQL_DATABASE=amazondb -e MYSQL_USER=demo_user -e MYSQL_PASSWORD=demo_pass -d mysql
