@@ -13,7 +13,7 @@ and check docker -v
  #java project
 mkdir projects
 cd projects
-git clone  -b projects  https://github.com/eswaribala/rpsdynatracemar.git
+git clone  -b projects  https://github.com/eswaribala/rpsdynatracemar2024.git
 
 sudo apt-get update
 sudo apt-get install -y docker-compose
